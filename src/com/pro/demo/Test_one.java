@@ -4,6 +4,8 @@ public class Test_one {
     public static void main(String[] args) {
         System.out.print("版本一");
 
+	System.out.print("---------master分支-----");
+
 	System.out.print("提交二");
 
    }
