@@ -11,5 +11,7 @@ public class Test_one {
 
 	System.out.print("提交二");
 
+	System.out.println("提交三");
+
    }
 }
